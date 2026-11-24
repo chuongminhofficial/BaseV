@@ -20,7 +20,7 @@ Nhấn trực tiếp vào các liên kết `GitHub Raw` bên dưới để tải
 | **Thông tin định danh ký số (`.json`)** | `1.0 KB` | [**⬇ SIGNING-IDENTITY.json**](https://raw.githubusercontent.com/chuongminhofficial/BaseV/main/downloads/SIGNING-IDENTITY.json) | Siêu dữ liệu chứng chỉ, thời hạn và định danh gói Store |
 | **Bảng băm kiểm tra (`SHA256SUMS`)** | `0.3 KB` | [**⬇ SHA256SUMS.txt**](https://raw.githubusercontent.com/chuongminhofficial/BaseV/main/downloads/SHA256SUMS.txt) | Mã kiểm tra toàn vẹn SHA-256 chính thức |
 
-> Ngoài liên kết `Raw` tải trực tiếp ở trên, bạn cũng có thể tải đầy đủ tại mục [**GitHub Releases (Latest v0.7.3)**](https://github.com/chuongminhofficial/BaseV/releases/latest) (bao gồm cả bộ cài Offline tích hợp sẵn bộ cài WebView2 dành cho máy chủ không có Internet).
+> Ngoài liên kết `Raw` tải trực tiếp ở trên, bạn cũng có thể tải tại mục [**GitHub Releases (Latest v0.7.3)**](https://github.com/chuongminhofficial/BaseV/releases/latest).
 
 ---
 
