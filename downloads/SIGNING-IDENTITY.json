@@ -1,0 +1,21 @@
+{
+    "productName":  "BaseV Database Studio",
+    "version":  "0.7.3",
+    "msixVersion":  "0.7.3.0",
+    "publisherDisplayName":  "Chương Minh Studio",
+    "certificateSubject":  "CN=Chương Minh Studio, O=Chương Minh Studio, L=Ho Chi Minh City, C=VN",
+    "certificateIssuer":  "CN=Chương Minh Studio, O=Chương Minh Studio, L=Ho Chi Minh City, C=VN",
+    "thumbprint":  "7C70255B0B8481C3EF64F285151364F475B94C17",
+    "notAfter":  "2031-11-25T00:42:49.0000000+07:00",
+    "storeIdentityName":  "ChuongMinhStudio.BaseVDatabaseStudio",
+    "artifacts":  [
+                      "BaseV-Portable-0.7.3-x64.exe",
+                      "basev-selfsigned.cer",
+                      "BaseV-Setup-0.7.3-x64.exe",
+                      "BaseV_0.7.3.0_x64.msix",
+                      "Cai-Chung-Chi-ChuongMinhStudio-Admin.bat",
+                      "CERTIFICATE-THUMBPRINT.txt",
+                      "chuongminh-studio.cer",
+                      "SHA256SUMS.txt"
+                  ]
+}

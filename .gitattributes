@@ -1,0 +1,9 @@
+* text=auto eol=lf
+*.bat text eol=crlf
+*.exe binary
+*.msix binary
+*.msi binary
+*.cer binary
+*.png binary
+*.ico binary
+*.woff2 binary
